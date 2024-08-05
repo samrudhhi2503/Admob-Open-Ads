@@ -24,11 +24,9 @@ allprojects {
 
 Add it in your root app.gradle at the end of repositories: <br/>
 ```gradle
-dependencies {
-...
+
 implementation 'com.github.samrudhhi2503:Admob-Open-Ads:1.0.samu'
-...
-}
+
 ```
 
 # How do I use Admob open Ads
